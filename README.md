@@ -6,6 +6,7 @@
 
 
 ## Connection
+import ไฟล์ sql จาก folder /dummy_data/deal_history.sql
 เปลี่ยนการตั้งค่า database ได้ที่ connection/db.js ครับ
 
 
