@@ -1,4 +1,4 @@
-# deal-history
+# Deal History
 
 ## Installation
 ***
