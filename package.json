@@ -1,6 +1,14 @@
 {
-  "name": "deals-history",
+  "name": "deal-history",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "FOR TEST DEAL HISTORY",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
 }
